@@ -1,6 +1,6 @@
 # medical_app
 
-A new Flutter project.
+FlutterDoc is a mobile application designed to streamline the process of scheduling and managing doctor appointments. Built using Flutter, it offers a seamless user experience across both iOS and Android platforms. The app allows users to easily search for doctors based on specialty, location, and availability.
 
 ## Getting Started
 
